@@ -1,5 +1,5 @@
 ## Hi there 👋
-hi the owner is karan 
+hi the owner is karan batra (modified file)
 <!--
 **karnbatra874/karnbatra874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
